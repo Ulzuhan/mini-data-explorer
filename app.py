@@ -15,7 +15,7 @@ st.set_page_config(
     layout='wide',
 )
 
-st.title('🔍 Mini Data Explorer')
+st.title('🔍 Mini Data Explorer 🔍')
 st.markdown(
     'Sube un CSV y explóralo de forma interactiva. '
     'Si no subes nada, se usa el dataset de ejemplo.'
